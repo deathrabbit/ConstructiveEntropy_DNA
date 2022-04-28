@@ -12,7 +12,7 @@ import bisect
 import re
 from ete3 import NCBITaxa
 
-PATH_FASTA = '/My Drive/PyCharm/DNAEntropy/fasta/'
+PATH_FASTA = '/PyCharm/DNAEntropy/fasta/'
 
 ''' Select kingdom to process '''
 KINGDOM = 'bacteria'
