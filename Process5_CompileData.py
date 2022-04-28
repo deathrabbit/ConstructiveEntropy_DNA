@@ -9,7 +9,7 @@ import bz2
 import pandas as pd
 from ete3 import NCBITaxa
 
-PATH_FASTA = '/My Drive/PyCharm/DNAEntropy/fasta/'
+PATH_FASTA = '/PyCharm/DNAEntropy/fasta/'
 LIST_KINGDOM = ['bacteria', 'fungi', 'metazoa', 'plants', 'protozoa', 'viridae']
 
 
