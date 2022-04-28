@@ -13,7 +13,7 @@ from collections import Counter
 from Bio import SeqIO, Phylo
 from ete3 import NCBITaxa
 
-PATH_FASTA = '/My Drive/PyCharm/DNAEntropy/fasta/'
+PATH_FASTA = '/PyCharm/DNAEntropy/fasta/'
 
 """ Select kingdom to process"""
 KINGDOM = 'bacteria'
