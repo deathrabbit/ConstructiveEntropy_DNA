@@ -10,7 +10,7 @@ import os
 import urllib3
 from ete3 import NCBITaxa
 
-PATH_FASTA = '/My Drive/PyCharm/DNAEntropy/fasta/'
+PATH_FASTA = '/PyCharm/DNAEntropy/fasta/'
 GET_NCBI = False
 GET_TIMETREE = False
 
