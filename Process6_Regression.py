@@ -106,7 +106,7 @@ LIST_OPTIONS = [
 ###################
 
 # File location
-PATH_FASTA = '/My Drive/PyCharm/DNAEntropy/fasta/'
+PATH_FASTA = '/PyCharm/DNAEntropy/fasta/'
 DIRECTORY_LOAD = 'zz_CSVdata'
 FILE_LOAD = 'entropy_data.csv'
 
