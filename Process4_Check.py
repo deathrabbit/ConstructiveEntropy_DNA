@@ -12,7 +12,7 @@ import pickle
 import bz2
 import pandas as pd
 
-PATH_FASTA = '/My Drive/PyCharm/DNAEntropy/fasta/'
+PATH_FASTA = '/PyCharm/DNAEntropy/fasta/'
 
 """ Select kingdom to process"""
 KINGDOM = 'bacteria'
